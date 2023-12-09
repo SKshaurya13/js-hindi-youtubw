@@ -1,2 +1,2 @@
-# js-hindi-youtub
+# js-hindi-youtube
 javascript learning by chai aur code channel
